@@ -11,6 +11,6 @@ Tensorflow </br>
 Tensorflow-Keras </br>
 Sklearn </br>
 
-#To run the code
+# To run the code
 Install all the required dependencies and open the the notebook. </br>
 NOTE: This notebook was executed on Kaggle's ide so please download dataset or import this notebook to kaggle and run it.
